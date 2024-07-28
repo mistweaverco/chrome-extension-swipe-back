@@ -7,7 +7,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-informational?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Chrome](https://img.shields.io/badge/Chrome-Extension-informational?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/clmmakdjojjcfjainblcjcglejkagkma)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-informational?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mistweaverco/google-chrome-swipe-back)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/mistweaverco/google-chrome-swipe-back?style=for-the-badge)](https://github.com/mistweaverco/kulala.nvim/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/mistweaverco/google-chrome-swipe-back?style=for-the-badge)](https://github.com/mistweaverco/google-chrome-swipe-back/releases/latest)
 
 [Motivation](#motivation) • [Install](#install) • [Usage](#usage)
 
