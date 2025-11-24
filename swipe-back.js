@@ -111,7 +111,7 @@ function handleWheel(event) {
     position = 150 * postitionScale;
   }
   if (position < -150 * postitionScale) {
-    postitionScale = -150 * postitionScale;
+      position = -150 * postitionScale;
   }
 
   if (position > 0) {
